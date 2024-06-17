@@ -1,0 +1,83 @@
+https://whois.domaintools.com/   -domain lookup
+https://phish.report/IOK   -building IOK for reporting phishing websites
+https://urlscan.io/ - scan current website screenshots
+study material
+
+https://www.pluralsight.com/ - webdev / personal trainers - raymond recommended
+https://courses.stationx.net/p/stationx-membership/?coupon_code=VIPREGULAR&utm_source=internal&utm_medium=blog&utm_campaign=career-thankyou
+https://courses.stationx.net/
+
+https://github.com/tanc7/hacking-books 
+https://github.com/PacktPublishing/CompTIA-Network-Cert-N10-007-Full-Course-and-Practice-Exam
+ https://github.com/xChockax/CompTIA-Network-Certification-N10-007- 
+https://danielmiessler.com/study/  
+https://app.pluralsight.com/
+https://dfirmadness.com/getting-into-infosec/the-five-pillars/
+https://www.subnetting.net/
+https://skillcrush.com/blog/python-programming-examples/
+
+online testing groundss
+https://overthewire.org/wargames/bandit
+
+varius githubs - AGAIN NOT RESPONSIBLE FOR USER USE
+https://github.com/cheetz		- TheHackerPlaybook / Powershell scripts
+https://github.com/tanc7/hacking-books 	- repository of Github hackbooks
+https://github.com/Junnplus/awesome-python-books - python books
+https://github.com/skickar/ChickenManGame 		 - wifi hacking game (group activity)
+https://github.com/spacehuhn - wifi hacking
+https://github.com/AHXR/ghost - RAT - FOR LEARNING ONLY
+https://github.com/HashPals/Name-That-Hash  - detect hash type
+https://github.com/rebootuser/LinEnum  - linux user / root checker PENTESTING
+
+https://github.com/sherlock-project/sherlock#installation  - OSINT username searcher
+
+https://github.com/victornpb/deleteDiscordMessages
+https://github.com/redcode-labs - redteam scripts
+https://github.com/Fitzy1293/redditsfinder - reddit user info to json
+github.com/dolevg - known 'broken' applications for hacking testing (local)
+-https://github.com/dolevf/Damn-Vulnerable-GraphQL-Application
+https://github.com/projectdiscovery/subfinder  -subdomainfinder
+https://github.com/huckingfoes/awesome-reddit-bots
+
+Pentesting / bug bounty tools - lazyrecon - six2dez
+capture the flags
+https://www.root-me.org/?page=news&lang=en
+https://www.vulnhub.com/    - hackable VMs
+https://tryhackme.com/login - SSH / Vuln VMS
+https://overthewire.org/wargames/ - SSH (Bandit)
+
+online research
+
+https://infocondb.org/    - list of hacking conventions
+https://www.exploit-db.com/ - self explanitory
+https://book.hacktricks.xyz/search-exploits  - exploit command lists by category
+https://browserleaks.com/
+https://ipleak.com/
+
+rasberry projects
+https://www.thedigitalpictureframe.com/how-to-build-a-digital-picture-frame-with-a-raspberry-pi/ 
+Arduino Uno Rev3 | Arduino Official Store  - 
+Arduino MKR WAN 1310 | Arduino Official Store  
+https://ubuntu.com/tutorials/how-to-kubernetes-cluster-on-raspberry-pi#1-overview 
+https://pimylifeup.com/raspberry-pi-portainer/
+
+powershells cheat sheet (move this to a bigger solo repository) missing data
+Get-ScheduledTask
+-lists all scheduled tasks
+(Get-EventLog -LogName Application -InstanceID 11707) | Select-Object Source, Time, Message
+-shows event 11707 application installs
+
+Get-Help Commandlet-Name -Detailed
+Get-Help Commandlet-Name -Examples
+Get-Help Commandlet-Name -Full 
+
+• Get-CimInstance.
+• Get-WinEvent.
+• Enter-PSSession.
+• Test-NetConnection.
+• Get-ADUser.
+• Get-Process.
+• Get-ChildItem.
+• Get-Help.
+ 
+https://www.scriptrunner.com/en/blog/top-10-powershell-commands-for-troubleshooting/
