@@ -1,3 +1,6 @@
+https://pleroma.social/  - for setting up an internal "twitter" for bot posts (plant watering bot / dashboards)
+
+
 https://whois.domaintools.com/   -domain lookup
 https://phish.report/IOK   -building IOK for reporting phishing websites
 https://urlscan.io/ - scan current website screenshots
